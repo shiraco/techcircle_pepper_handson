@@ -1,9 +1,6 @@
 [submodule "rekognition"]
 	path = rekognition
 	url = https://github.com/shiraco/rekognition.git
-[submodule "techcircle_box"]
-	path = techcircle_box
-	url = https://github.com/shiraco/techcircle_box.git
 [submodule "google_stt"]
 	path = google_stt
 	url = https://github.com/shiraco/google_stt.git
