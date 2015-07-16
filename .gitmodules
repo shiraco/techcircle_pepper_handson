@@ -1,6 +1,3 @@
 [submodule "rekognition"]
 	path = rekognition
 	url = https://github.com/shiraco/rekognition.git
-[submodule "google_stt"]
-	path = google_stt
-	url = https://github.com/shiraco/google_stt.git
